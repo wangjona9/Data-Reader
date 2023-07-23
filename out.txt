@@ -1,0 +1,28 @@
+Number of homes: 120
+Average home price (in thousands): $373.70
+Median home price (in thousands): $287.00
+Mode home price (in thousands): $929
+
+Statistics for CA:
+Number of homes: 30
+Average home price (in thousands): $535.37
+Median home price (in thousands): $554.00
+Mode home price (in thousands): $610
+
+Statistics for NY:
+Number of homes: 30
+Average home price (in thousands): $365.33
+Median home price (in thousands): $256.50
+Mode home price (in thousands): $195
+
+Statistics for NJ:
+Number of homes: 30
+Average home price (in thousands): $328.53
+Median home price (in thousands): $279.00
+Mode home price (in thousands): $279
+
+Statistics for PA:
+Number of homes: 30
+Average home price (in thousands): $265.57
+Median home price (in thousands): $232.50
+Mode home price (in thousands): $190
